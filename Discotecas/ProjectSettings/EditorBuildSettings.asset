@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AR/DiscoAR.unity
+    guid: 506af93504d8cad48b69d5fefc57591f
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d2b44f580672d274eabfa5ce36a11843, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf391aeade4e29349bd04b7313c7a53a, type: 2}

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Ovr/Demo/Scenes/OvrDemo.unity
+- path: Assets/Scenes/OVR/disco-editada-simplificada3ParaExportar.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
